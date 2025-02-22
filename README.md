@@ -15,7 +15,7 @@
 
 <h1>Live Action 🌏 </h1>
 
-ZEE5 CLONE {netlify}
+**ZEE5 CLONE**
 
 <h1>Home Page </h1>
 
